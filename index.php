@@ -6,4 +6,5 @@
  * Time: 12:00
  */
 
-echo 'kezdő oldal';
+include_once "class/Framework.php";
+new Framework();
